@@ -66,7 +66,7 @@ Wrap up your learning with a recap of key concepts and next steps for mastering 
 ---
 
 
-## Additional Resources**:
+## Additional Resources:
   - A link to the comprehensive guide used in this tutorial is provided for further in-depth exploration: https://jeevangupta.com/decorators-in-python-a-comprehensive-guide/
 
 # Getting Started:
